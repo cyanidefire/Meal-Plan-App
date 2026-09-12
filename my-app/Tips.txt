@@ -1,0 +1,2 @@
+react updates (maintain):
+npm install react-scripts@latest
